@@ -1,0 +1,43 @@
+[
+  {
+    "id": "s01",
+    "name": "tech",
+    "type": 0,
+    "children": []
+  },
+  {
+    "id": "s02",
+    "name": "data.json",
+    "type": 1
+  },
+  {
+    "id": "s03",
+    "name": "another-tech",
+    "type": 0,
+    "children": [
+      {
+        "id": "s04",
+        "name": "Mental-Health",
+        "type": 0,
+        "children": [
+          {
+            "id": "s09",
+            "name": "hello-world",
+            "type": 0,
+            "children": []
+          },
+          {
+            "id": "s10",
+            "name": "why.json",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "id": "s05",
+        "name": "work.json",
+        "type": 1
+      }
+    ]
+  }
+]
